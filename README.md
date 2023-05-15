@@ -2,8 +2,8 @@
 
 ✨ About Me ✨ 
 
--  I’m currently persuing MSc.Data Science from Salford University.
--  I have a solid understanding of statistical analysis, machine learning and data visualization.
+-  I’m currently pursuing MSc.Data Science from Salford University.
+-  I have a sound knowledge of statistical analysis, machine learning and data visualization.
 -  How to find me: https://www.linkedin.com/in/naziaakhaan
 
 
