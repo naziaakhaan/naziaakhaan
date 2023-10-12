@@ -1,4 +1,4 @@
-### Hi folks!👋 I'm Nazia
+### Hi!👋 I'm Nazia
 
 ✨ About Me ✨ 
 
